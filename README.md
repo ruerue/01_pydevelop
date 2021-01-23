@@ -8,4 +8,4 @@ https://github.com/ruerue/01_pydevelop
 
 https://gitpod.io/#github.com/[user_name]/[repository_name]
 
-https://github.io/#github.com/ruerue/01_pydevelop
+https://gitpod.io/#github.com/ruerue/01_pydevelop
